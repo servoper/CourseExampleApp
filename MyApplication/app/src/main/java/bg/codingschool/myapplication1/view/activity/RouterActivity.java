@@ -91,7 +91,7 @@ public class RouterActivity extends Activity {
             }
         };
 
-        getDogsFromDbAsyncTask.execute("Stamat");
+        getDogsFromDbAsyncTask.execute("Stamat1");
     }
 
     @Override
